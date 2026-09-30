@@ -9,9 +9,14 @@
   <img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux" width="50" />
 </div>
 
-<br><br>
+<br>
 
-<!-- Left Side: REAL Fastfetch Output in HTML Pre block -->
+<!-- Top Banner Image -->
+<p align="center">
+  <img width="900" height="70" alt="Cityscape Banner Top" src="https://github.com/user-attachments/assets/b895b48c-890f-4954-b60c-14a92f9eab8a" />
+</p>
+
+<!-- REAL Fastfetch Output in HTML Pre block -->
 <pre><code>
       /\          frixy@archlinux
      /  \         ---------------
@@ -24,4 +29,9 @@
                   Focus: Cyber Security
 
                   🔴 🟡 🟢 🔵 🟣 ⚪
-</code></pre><img width="468" height="40" alt="212284158-e840e285-664b-44d7-b79b-e264b5e54825" src="https://github.com/user-attachments/assets/b895b48c-890f-4954-b60c-14a92f9eab8a" />
+</code></pre>
+
+<!-- Bottom Banner Image -->
+<p align="center">
+  <img width="900" height="70" alt="Cityscape Banner Bottom" src="https://github.com/user-attachments/assets/b895b48c-890f-4954-b60c-14a92f9eab8a" />
+</p>
